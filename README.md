@@ -22,3 +22,6 @@ The operation to be carried can also be changed by changing the variable "select
 2’b01           Decrease Brightness <br />
 2’b10           Image Thresholding <br />
 2’b11           Image Inversion <br />
+
+
+The example Folder contains a test image and the images obtained by carrying out all the operations in "Test_bench.v" one by one.
